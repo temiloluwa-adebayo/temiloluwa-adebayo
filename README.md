@@ -44,6 +44,6 @@ and 7 complete products shipped from idea to deployment.
 
 ### Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/temiloluwa-adebayo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://temiloluwa-adebayo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:temiloluwa@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/temiloluwa-adebayo-4843ba377)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://my-portfolio-bice-delta-10.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:temidaniel124@gmail.com)
