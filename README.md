@@ -8,7 +8,7 @@ and 7 complete products shipped from idea to deployment.
 
 ---
 
-### 🚀 What I Build
+### What I Build
 
 - **AI-Powered Web Applications** — Next.js · React · Supabase
 - **Workflow Automation Engines** — n8n · Webhooks · API Chaining
@@ -17,7 +17,7 @@ and 7 complete products shipped from idea to deployment.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -29,7 +29,7 @@ and 7 complete products shipped from idea to deployment.
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -42,7 +42,7 @@ and 7 complete products shipped from idea to deployment.
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/temiloluwa-adebayo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://temiloluwa-adebayo.vercel.app)
